@@ -41,6 +41,9 @@
 * I extended my knowledge on filleting in Onshape
 * I learned how to use the circular pattern tool in Onshape
 
+<img src="Images_BOC/Wheel_Side.png">
+<img src="Images_BOC/Wheel_Tilted.png">
+
 # Axle, Bearing, and Washer
 
 ### What I learned
