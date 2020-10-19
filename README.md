@@ -65,7 +65,7 @@ Link to Onshape document: [Wheel](https://cvilleschools.onshape.com/documents/ff
 <img src="Images_BOC/Washer_Side.png">
 <img src="Images_BOC/Washer_Tilted.png">
 
-Link to Onshape document: [Axle and Collar](https://cvilleschools.onshape.com/documents/35a54cd46d3ae5e6ba556e9f/w/d7bcaba6fb170510d5bb06c8/e/abc75b4dcc4ed2fdd6f67ff9)
+Link to Onshape document: [Axle and Collar](https://cvilleschools.onshape.com/documents/35a54cd46d3ae5e6ba556e9f/w/d7bcaba6fb170510d5bb06c8/e/abc75b4dcc4ed2fdd6f67ff9)<br/>
 Link to Onshape document: [Washer](https://cvilleschools.onshape.com/documents/da18e727c262896ebe75d104/w/4a1bd2cfd5f42c02a7048ba7/e/28ab2e1a293dbd374e04fe15)
 
 # Sub Assembly
@@ -118,9 +118,9 @@ Link to Onshape document: [Dorothy's Dowel Pins](https://cvilleschools.onshape.c
 <img src="Images_BOC/Challenge_Side.png">
 <img src="Images_BOC/Challenge_Tilted.png">
 
-Link to Onshape document: [Full Challenge Assembly](https://cvilleschools.onshape.com/documents/1befb4c92b88bc25b001971b/w/8f8e8186dde8fb57830fb1fe/e/884a1441764003383efdceaa)
-Link to Onshape document: [The Cube](https://cvilleschools.onshape.com/documents/5156bed3b840edc1d9181035/w/6189e3913ee141784a14836a/e/03729fb4c3147a67fd1f02f5)
-Link to Onshape document: [The Spinner Shaft](https://cvilleschools.onshape.com/documents/5ad16592e2c8c1791ddbd76f/w/1d512a4fda4c4c37763e2e0a/e/5f7ee08bb5c4751959ddc8f5)
-Link to Onshape document: [The Bracket](https://cvilleschools.onshape.com/documents/331f3af530594f575e7e31fa/w/2addda16865b005bf632a6fe/e/fc4cf4a7f1100116ee4311a0)
+Link to Onshape document: [Full Challenge Assembly](https://cvilleschools.onshape.com/documents/1befb4c92b88bc25b001971b/w/8f8e8186dde8fb57830fb1fe/e/884a1441764003383efdceaa)<br/>
+Link to Onshape document: [The Cube](https://cvilleschools.onshape.com/documents/5156bed3b840edc1d9181035/w/6189e3913ee141784a14836a/e/03729fb4c3147a67fd1f02f5)<br/>
+Link to Onshape document: [The Spinner Shaft](https://cvilleschools.onshape.com/documents/5ad16592e2c8c1791ddbd76f/w/1d512a4fda4c4c37763e2e0a/e/5f7ee08bb5c4751959ddc8f5)<br/>
+Link to Onshape document: [The Bracket](https://cvilleschools.onshape.com/documents/331f3af530594f575e7e31fa/w/2addda16865b005bf632a6fe/e/fc4cf4a7f1100116ee4311a0)<br/>
 
 
