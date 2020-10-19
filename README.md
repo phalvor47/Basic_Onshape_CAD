@@ -106,3 +106,21 @@ Link to Onshape document: [Assembly](https://cvilleschools.onshape.com/documents
 <img src="Images_BOC/DDL_Front.png">
 
 Link to Onshape document: [Dorothy's Dowel Pins](https://cvilleschools.onshape.com/documents/a98cc56366b128c5aeb68881/w/1b240f4657b1e9ec579a28cd/e/13fff3294b9443657b43d1ce)
+
+# Onshape Challenge
+
+### What I learned
+* I learned how to make a Thin Feature
+	* In Onshape, a Thin Feature is called Thicken. It is like a Thin Feature but instead of putting one measurement for both sides, you choose  the measurement for both sides.
+* I learned how to make a Cylindrical mate
+	* The Cylindrical mate is like a Rotating mate but allows for more flexibility vertical length wise
+
+<img src="Images_BOC/Challenge_Side.png">
+<img src="Images_BOC/Challenge_Tilted.png">
+
+Link to Onshape document: [Full Challenge Assembly](https://cvilleschools.onshape.com/documents/1befb4c92b88bc25b001971b/w/8f8e8186dde8fb57830fb1fe/e/884a1441764003383efdceaa)
+Link to Onshape document: [The Cube](https://cvilleschools.onshape.com/documents/5156bed3b840edc1d9181035/w/6189e3913ee141784a14836a/e/03729fb4c3147a67fd1f02f5)
+Link to Onshape document: [The Spinner Shaft](https://cvilleschools.onshape.com/documents/5ad16592e2c8c1791ddbd76f/w/1d512a4fda4c4c37763e2e0a/e/5f7ee08bb5c4751959ddc8f5)
+Link to Onshape document: [The Bracket](https://cvilleschools.onshape.com/documents/331f3af530594f575e7e31fa/w/2addda16865b005bf632a6fe/e/fc4cf4a7f1100116ee4311a0)
+
+
